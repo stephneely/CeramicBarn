@@ -1,0 +1,7 @@
+C:\DEV\Personal\CeramicBarn\CeramicBarn.DataLayer\bin\Debug\CeramicBarn.DataLayer.dll
+C:\DEV\Personal\CeramicBarn\CeramicBarn.DataLayer\bin\Debug\CeramicBarn.DataLayer.pdb
+C:\DEV\Personal\CeramicBarn\CeramicBarn.DataLayer\bin\Debug\CeramicBarn.Domain.dll
+C:\DEV\Personal\CeramicBarn\CeramicBarn.DataLayer\bin\Debug\CeramicBarn.Domain.pdb
+C:\DEV\Personal\CeramicBarn\CeramicBarn.DataLayer\obj\Debug\CeramicBarn.DataLayer.csprojResolveAssemblyReference.cache
+C:\DEV\Personal\CeramicBarn\CeramicBarn.DataLayer\obj\Debug\CeramicBarn.DataLayer.dll
+C:\DEV\Personal\CeramicBarn\CeramicBarn.DataLayer\obj\Debug\CeramicBarn.DataLayer.pdb

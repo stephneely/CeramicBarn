@@ -1,0 +1,5 @@
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Domain\bin\Debug\CeramicBarn.Domain.dll
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Domain\bin\Debug\CeramicBarn.Domain.pdb
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Domain\obj\Debug\CeramicBarn.Domain.csprojResolveAssemblyReference.cache
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Domain\obj\Debug\CeramicBarn.Domain.dll
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Domain\obj\Debug\CeramicBarn.Domain.pdb
