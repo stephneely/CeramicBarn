@@ -2,6 +2,8 @@ C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\CeramicBarn.Web.dll.config
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\CeramicBarn.Web.dll
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\CeramicBarn.Web.pdb
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\Antlr3.Runtime.dll
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\CeramicBarn.DataLayer.dll
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\CeramicBarn.Domain.dll
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\Microsoft.Web.Infrastructure.dll
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\Newtonsoft.Json.dll
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.Helpers.dll
@@ -12,13 +14,15 @@ C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.WebPages.Deployment.d
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.WebPages.dll
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.WebPages.Razor.dll
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\WebGrease.dll
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\CeramicBarn.DataLayer.pdb
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\CeramicBarn.Domain.pdb
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.Helpers.xml
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.Mvc.xml
-C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.Optimization.xml
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.Razor.xml
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.WebPages.xml
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.WebPages.Deployment.xml
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.WebPages.Razor.xml
+C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\System.Web.Optimization.xml
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\Antlr3.Runtime.pdb
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\bin\Newtonsoft.Json.xml
 C:\DEV\Personal\CeramicBarn\CeramicBarn.Web\obj\Debug\CeramicBarn.Web.csprojResolveAssemblyReference.cache
